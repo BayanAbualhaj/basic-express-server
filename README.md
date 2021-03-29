@@ -3,15 +3,15 @@
  
 ## links for deployments
 
-- [dev branch](https://ba-server-deploy-dev.herokuapp.com/)
-- [master](https://ba-server-deploy-prod.herokuapp.com/)
-- [pull request](https://github.com/BayanAbualhaj/server-deployment-practice/pull/4)
+- [master](https://ba-basic-express-server.herokuapp.com/)
+- [pull request](https://github.com/BayanAbualhaj/basic-express-server/pull/1)
 
 
 ## whiteboard 
 
 
-![uml]()
+![uml](https://raw.githubusercontent.com/BayanAbualhaj/basic-express-server/master/assets/Blank%20board.png
+)
 
 
 ## Notes
